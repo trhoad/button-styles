@@ -11,3 +11,34 @@ div {
   padding: .5rem;
   text-align: center;
 }
+
+.btn {
+  padding: .4em .75em .3em;
+  color: #fff;
+  background-color: #333;
+  font-size: 1.125rem;
+  border-radius: 8px;
+  text-decoration: none;
+}
+
+.btn-subtle {
+  background-color: #ccc;
+}
+
+.btn-ghost {
+  background-color: #fff;
+  color: #333;
+  border: 3px solid #333;
+}
+
+.btn-warning {
+  background-color: #f33;
+}
+
+.btn-small {
+  font-size: .875rem;
+}
+
+.btn-big {
+  font-size: 1.5rem;
+}

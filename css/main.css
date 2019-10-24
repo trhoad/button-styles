@@ -25,7 +25,7 @@ div {
 
 .btn-subtle {
   background-color: #ccc;
-  border: 3px solid #ccc;
+  border-color: inherit;
 }
 
 .btn-ghost {
@@ -35,7 +35,7 @@ div {
 
 .btn-warning {
   background-color: #f33;
-  border: 3px solid #f33;
+  border-color: inherit;
 }
 
 .btn-small {
@@ -52,16 +52,15 @@ div {
 
 .btn-subtle:hover {
   background-color: #666;
-  border: 3px solid #666;
+  border-color: inherit;
 }
 
 .btn-ghost:hover {
   background-color: #333;
-  border: 3px solid #333;
   color: #fff;
 }
 
 .btn-warning:hover {
   background-color: #933;
-  border: 3px solid #933;
+  border-color: inherit;
 }
